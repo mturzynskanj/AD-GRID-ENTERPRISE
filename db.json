@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "author": "typicode"
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "rowData": [
+    { "make": "Audi",   "model": "Celica",    "price": 35000,   "year": 1996, "Render-Indicator":"indicator"},
+    { "make": "Ford",     "model": "Mondeo",    "price": 32000 ,  "year": 1996, "Render-Indicator":"indicator"},
+    { "make": "Porsche",  "model": "Boxter",    "price": 72000 ,  "year": 1996, "Render-Indicator":"indicator"}
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
